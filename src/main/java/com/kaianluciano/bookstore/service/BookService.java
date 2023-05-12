@@ -3,7 +3,6 @@ package com.kaianluciano.bookstore.service;
 import com.kaianluciano.bookstore.model.BookModel;
 import com.kaianluciano.bookstore.repository.BookRepository;
 import jakarta.transaction.Transactional;
-import lombok.Setter;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
